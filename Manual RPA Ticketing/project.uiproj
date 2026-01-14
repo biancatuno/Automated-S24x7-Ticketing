@@ -1,0 +1,6 @@
+{
+  "Name": "Manual RPA Ticketing",
+  "ProjectType": "Process",
+  "Description": "First draft of manual RPA of ticketing trouble alerts from S24x7",
+  "MainFile": "Main.xaml"
+}
